@@ -57,4 +57,4 @@ Feito com ❤️ por Felipe Möises 👋🏽 [Entre em contato!](https://www.lin
 
 ##  Versões do README
 
-[Francês 🇫🇷](./README-FR.md)  |  [Inglês 🇺🇸](./README-EN.md)
+[Francês 🇫🇷](./README-FR.md)  |  [Inglês 🇺🇸](./README.md)
