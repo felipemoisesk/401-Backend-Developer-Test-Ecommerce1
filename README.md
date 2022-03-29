@@ -57,4 +57,4 @@ Made with ❤️ by Felipe Möises 👋🏽 [Get in touch!](https://www.linkedin
 
 ## README version
 
-[Franch 🇫🇷](./README-FR.md)  |  [Portuguese 🇧🇷](./README-PT.md)
+[French 🇫🇷](./README-FR.md)  |  [Portuguese 🇧🇷](./README-PT.md)
