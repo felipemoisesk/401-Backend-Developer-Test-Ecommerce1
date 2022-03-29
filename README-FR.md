@@ -57,4 +57,4 @@ Réalisé avec ❤️ par Felipe Möises 👋🏽 [Prendre contact!](https://www
 
 ##  Versions README
 
-[Portugais 🇧🇷](./README-PT.md)  |  [Anglais 🇺🇸](./README-EN.md)
+[Portugais 🇧🇷](./README-PT.md)  |  [Anglais 🇺🇸](./README.md)
