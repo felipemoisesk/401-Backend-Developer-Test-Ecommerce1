@@ -8,6 +8,6 @@ def get_four_digit_numbers(max_digit):
             result.append(str(a) + str(b) + str(c) + str(d))
   return result
 
-maxDigit = input('Digite um número de 1 a 9: ')
+maxDigit = int(input('Digite um número de 1 a 9: '))
 result = get_four_digit_numbers(maxDigit)
 print(result)
