@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Status%20do%20Projeto-Concluído-green"/>
+<img src="https://img.shields.io/badge/Status-Concluído-green"/>
 </p>
 
 ## 💻 About the test
