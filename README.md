@@ -2,9 +2,9 @@
      <a> 401-Backend-Developer-Test-Ecommerce1 </a>
 </h1>
 
-<h4 align="center">
-	🚧 MAR/22 🚀 🚧
-</h4>
+<p align="center">
+<img src="https://img.shields.io/badge/Status%20do%20Projeto-Concluído-green"/>
+</p>
 
 ## 💻 About the test
 
