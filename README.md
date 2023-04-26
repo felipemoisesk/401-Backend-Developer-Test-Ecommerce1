@@ -8,7 +8,7 @@
 
 ## 💻 About the test
 
-Test accomplished in MAR/2022 for the role of Backend Developer Junior, ML.
+Test accomplished in MAR/2022 for the role of Backend Developer, ML.
 
         Complete the following function so that it returns all possible 4-digit numbers, 
         where each is less than or equal to <maxDigit>, and the sum of the digits of each generated number is 21
